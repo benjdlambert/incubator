@@ -1,0 +1,20 @@
+{
+  "name": "incubatorjs",
+  "version": "1.0.0",
+  "description": "A simple React container that is used without Relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjdlambert/incubator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjdlambert/incubator/issues"
+  },
+  "homepage": "https://github.com/benjdlambert/incubator#readme"
+}
